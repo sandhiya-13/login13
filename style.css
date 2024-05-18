@@ -46,9 +46,7 @@ input[type='checkbox']{
     width: 15px;
     height: 15px;
 }
-.terms a{
-    color: rgb(5,211,183);
-}
+
 button{
     padding: 8px;
     border-radius: 8px;
